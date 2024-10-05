@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Laxmi Parmar</h1>
 <h3 align="center">Embedded System Developer</h3>
 
-- 🔭 I’m currently working on **Machine Learning Projects**
+- 🔭 I’m currently preparing for campus placements
 
-- 🌱 I’m currently learning **Machine Learning,DSA,Web Development**
+- 🌱 I’m currently learning **Machine Learning,DSA**
 
 - 💬 Ask me about **Matlab, Arduino, Electronics hardware's and programming**
+- I am very passionate for **Embedded Systems**
+- I can work on both firmware and hardware.
 
 - 📫 How to reach me **parmarlaxmi183@gmail.com**
 
