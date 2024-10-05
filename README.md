@@ -9,9 +9,9 @@
 - I am very passionate for **Embedded Systems**
 - I can work on both firmware and hardware.
 
-- 📫 How to reach me **parmarlaxmi183@gmail.com**
+- Reach out to me for any project related works or collaboration **parmarlaxmi183@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1R2LGJzI_EAkmcBsG_SRCLrnwuzHZML1U/view?usp=sharing](https://drive.google.com/file/d/1R2LGJzI_EAkmcBsG_SRCLrnwuzHZML1U/view?usp=sharing)
+- 📄 Know about my experiences, have a look on my resume  [https://drive.google.com/file/d/1R2LGJzI_EAkmcBsG_SRCLrnwuzHZML1U/view?usp=sharing](https://drive.google.com/file/d/1R2LGJzI_EAkmcBsG_SRCLrnwuzHZML1U/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
